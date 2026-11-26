@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below. Or don't. Both outcomes are consistent with the theory."
+authors:
+  - family-names: Magpie
+    given-names: ""
+    affiliation: Institute of Computational Irregularities
+title: "Beyond Obsolescence: A Relativistic Framework for Computational Infrastructure and Administrative Entropy"
+version: 0.1.0-alpha
+date-released: 2026-11-26
+repository-code: "https://github.com/csesardic/doctoral-thesis"
+keywords:
+  - satire
+  - adapters
+  - administrative entropy
+  - relativistic nonsense
+  - Case Zero
+abstract: "An interdisciplinary investigation into infinite adapter dependency, asymmetric enclosure distribution and the conservation of institutional bullshit. Not a real thesis."
+license: CC0-1.0
