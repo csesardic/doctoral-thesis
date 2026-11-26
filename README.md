@@ -62,6 +62,7 @@ Demonstrating that technological obsolescence can be postponed indefinitely thro
 - [law-of-conservation-of-adapters.md](law-of-conservation-of-adapters.md) — The Law of Conservation of Adapters
 - [funding-model.md](funding-model.md) — Dual-subscription funding model
 - [chapter-11.md](chapter-11.md) — Artificial Intelligence and the Industrialisation of Unnecessary Work
+- [aliexpress-cosmological-constant.md](aliexpress-cosmological-constant.md) — The AliExpress Cosmological Constant and financial spaghettification
 
 ---
 
