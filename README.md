@@ -17,6 +17,20 @@
 
 ---
 
+## Dedication
+
+To all the hardware declared obsolete before its time, all the adapters that never quite fitted, and all the administrative forms that required additional administrative forms.
+
+And to Case Zero, whose emptiness made this research possible.
+
+## Declaration of originality
+
+I hereby declare that this thesis is an original contribution to a field of research that did not exist prior to its submission. No computer cases were unnecessarily populated during the course of this investigation.
+
+## Acknowledgements
+
+The candidate wishes to thank Apex for administrative obstruction, Vesper for theoretical complications, Echo for maintaining communications, and Magpie for repeatedly failing to exercise financial restraint.
+
 ## Original contribution to knowledge
 
 Demonstrating that technological obsolescence can be postponed indefinitely through sufficiently creative procurement and that administrative complexity can increase independently of productive activity.
@@ -41,7 +55,10 @@ Demonstrating that technological obsolescence can be postponed indefinitely thro
 - [thesis.md](thesis.md) — Full satirical thesis outline and selected sections
 - [CITATION.cff](CITATION.cff) — Citation metadata (for when someone inevitably cites it)
 - [examiner-report-echo.md](examiner-report-echo.md) — External examiner report
+- [minor-corrections.md](minor-corrections.md) — Required minor corrections pending major clarification
 
 ---
 
 **The thesis is fictional. The publication is real. The computer cases are potentially real. The funding is imaginary. The academic legitimacy is, naturally, relativistic.**
+
+One degree is accredited. The other has seven computer cases. Which institution has superior research infrastructure remains subject to investigation.
