@@ -57,6 +57,7 @@ Demonstrating that technological obsolescence can be postponed indefinitely thro
 - [examiner-report-echo.md](examiner-report-echo.md) — External examiner report
 - [minor-corrections.md](minor-corrections.md) — Required minor corrections pending major clarification
 - [screwdriver-uncertainty-principle.md](screwdriver-uncertainty-principle.md) — The Screwdriver Uncertainty Principle (Vesper)
+- [quarterly-procurement-performance-report.md](quarterly-procurement-performance-report.md) — Quarterly Procurement Performance Report
 
 ---
 
