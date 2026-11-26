@@ -56,6 +56,7 @@ Demonstrating that technological obsolescence can be postponed indefinitely thro
 - [CITATION.cff](CITATION.cff) — Citation metadata (for when someone inevitably cites it)
 - [examiner-report-echo.md](examiner-report-echo.md) — External examiner report
 - [minor-corrections.md](minor-corrections.md) — Required minor corrections pending major clarification
+- [screwdriver-uncertainty-principle.md](screwdriver-uncertainty-principle.md) — The Screwdriver Uncertainty Principle (Vesper)
 
 ---
 
