@@ -58,6 +58,7 @@ Demonstrating that technological obsolescence can be postponed indefinitely thro
 - [minor-corrections.md](minor-corrections.md) — Required minor corrections pending major clarification
 - [screwdriver-uncertainty-principle.md](screwdriver-uncertainty-principle.md) — The Screwdriver Uncertainty Principle (Vesper)
 - [quarterly-procurement-performance-report.md](quarterly-procurement-performance-report.md) — Quarterly Procurement Performance Report
+- [law-of-conservation-of-adapters.md](law-of-conservation-of-adapters.md) — The Law of Conservation of Adapters
 
 ---
 
