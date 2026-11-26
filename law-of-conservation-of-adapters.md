@@ -10,6 +10,10 @@ Adapters cannot be created or destroyed, but they can transition from physically
 
 ## Formalisation
 
+$$
+A_p = A_u + A_l
+$$
+
 Where:
 
 - $A_p$ = adapters purchased
@@ -19,7 +23,7 @@ Where:
 Under current experimental conditions:
 
 $$
-A_p = 2, \quad A_u = 0, \quad A_l = 2
+2 = 0 + 2
 $$
 
 The model demonstrates perfect agreement with the reported experimental data.
