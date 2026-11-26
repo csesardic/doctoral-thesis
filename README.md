@@ -47,6 +47,7 @@ Demonstrating that technological obsolescence can be postponed indefinitely thro
 8. **Results:** Statistically significant quantities of bullshit.
 9. **Limitations:** Financial, computational and occasionally grammatical.
 10. **Conclusion:** Further research requires additional adapters.
+11. **Artificial Intelligence and the Industrialisation of Unnecessary Work.**
 
 ---
 
@@ -60,9 +61,12 @@ Demonstrating that technological obsolescence can be postponed indefinitely thro
 - [quarterly-procurement-performance-report.md](quarterly-procurement-performance-report.md) — Quarterly Procurement Performance Report
 - [law-of-conservation-of-adapters.md](law-of-conservation-of-adapters.md) — The Law of Conservation of Adapters
 - [funding-model.md](funding-model.md) — Dual-subscription funding model
+- [chapter-11.md](chapter-11.md) — Artificial Intelligence and the Industrialisation of Unnecessary Work
 
 ---
 
 **The thesis is fictional. The publication is real. The computer cases are potentially real. The funding is imaginary. The academic legitimacy is, naturally, relativistic.**
 
 One degree is accredited. The other has seven computer cases. Which institution has superior research infrastructure remains subject to investigation.
+
+The methodology is legitimate. The subject matter is bollocks.
